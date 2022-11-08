@@ -1,0 +1,5 @@
+C:/Users/user/source/repos/BigInt/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/user/source/repos/BigInt/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/user/source/repos/BigInt/out/build/x64-Debug/BigInt/CMakeFiles/BigInt.dir
+C:/Users/user/source/repos/BigInt/out/build/x64-Debug/BigInt/CMakeFiles/edit_cache.dir
+C:/Users/user/source/repos/BigInt/out/build/x64-Debug/BigInt/CMakeFiles/rebuild_cache.dir
